@@ -176,7 +176,6 @@ public class Clock extends View {
         drawPointer(canvas, 0, 5 * nowHours + part);
 
 
-
     }
 
 
